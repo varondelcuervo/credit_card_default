@@ -1,4 +1,4 @@
-### Credit Card Payment Default Prediction
+# Credit Card Payment Default Prediction
 
 This project focuses on the analysis and modeling of credit card payment default risk. Using the "Default of Credit Card Clients" dataset from UCI, we performed an exploratory analysis, data cleaning, and finally, built a **scorecard model** based on **Weight of Evidence (WoE)** and **Logistic Regression** methodologies.
 
